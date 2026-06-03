@@ -6,13 +6,20 @@ MSc Computer Science, University of East London.
 ## Projects
 
 ### 1. London Property Q&A Assistant
-**Week 2 — RAG Pipeline**
-- Built a Retrieval Augmented Generation system over real London property data
-- Stack: Python · LangChain · FAISS · HuggingFace Embeddings · Groq LLM
-- Loads 50 real property listings, builds a vector store, answers investor questions
-- Grounded responses — never hallucinates data not in the documents
 
-📓 [View Notebook](property_qa_assistant.ipynb)
+**v1** — Basic RAG pipeline
+- Stack: LangChain · FAISS · HuggingFace · Groq
+- 50 property listings · semantic search · grounded answers
+
+**v2** — Production RAG patterns
+- Chunking with RecursiveCharacterTextSplitter
+- MMR retrieval for diverse results
+- Source citations on every answer
+- Pre-computed summary documents for aggregate queries
+- Metadata-based data freshness tracking
+
+📓 [v1 Notebook](property_qa_assistant.ipynb)
+📓 [v2 Notebook](property_qa_assistant_v2.ipynb)
 
 ## Skills Being Built
 - LLMs and Generative AI
