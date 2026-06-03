@@ -33,4 +33,4 @@ MSc Computer Science, University of East London.
 Currently building toward Generative AI Engineer role in UK market — Q3 2026.
 
 📧 gali.ajayreddy@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/bala-gali-390725144)
+🔗 [LinkedIn](https://www.linkedin.com/in/bala-gali-390725144)
