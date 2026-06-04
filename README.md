@@ -59,14 +59,14 @@ Stack: Python · FastAPI · LangChain · FAISS ·
 📓 [View Notebook](property_ai_assistant_api.ipynb)
 
 ## Skills Being Built
--Python for AI — NumPy, Pandas | ✅ Complete 
--Prompt Engineering — few-shot, CoT, JSON output | ✅ Complete 
--LangChain — chains, memory, pipelines | ✅ Complete 
--RAG — embeddings, FAISS, chunking, MMR | ✅ Complete 
--FastAPI — REST endpoints, Pydantic, Swagger | ✅ Complete 
--AI Agents — tool calling, LangGraph | 🔄 Week 3 
--Azure AI deployment | ⏳ Week 4 
--Azure AI Engineer AI-102 certification | ⏳ Week 4 
+- Python for AI — NumPy, Pandas | ✅ Complete 
+- Prompt Engineering — few-shot, CoT, JSON output | ✅ Complete 
+- LangChain — chains, memory, pipelines | ✅ Complete 
+- RAG — embeddings, FAISS, chunking, MMR | ✅ Complete 
+- FastAPI — REST endpoints, Pydantic, Swagger | ✅ Complete 
+- AI Agents — tool calling, LangGraph | 🔄 Week 3 
+- Azure AI deployment | ⏳ Week 4 
+- Azure AI Engineer AI-102 certification | ⏳ Week 4 
 
 ## Roadmap
 - ✅ Week 1 — Python for AI, data pipelines
