@@ -58,6 +58,23 @@ Stack: Python · FastAPI · LangChain · FAISS ·
 
 📓 [View Notebook](property_ai_assistant_api.ipynb)
 
+### 3. London Property Advisor Agent
+**Week 3 — Day 2**
+
+A conversational AI property advisor with persistent memory,
+specialist persona, and autonomous tool calling.
+
+Features:
+- Multi-turn memory — remembers deposit, areas, and context across turns
+- Custom system prompt — "Alex" specialist persona with rules
+- 5 tools — property search, yield calculation, mortgage, market trends
+- Two-agent pipeline — research agent feeds analysis agent
+- Autonomous reasoning — 8 tool calls on complex investment questions
+
+Stack: Python · LangGraph · LangChain · Groq LLM
+
+📓 [View Notebook](property_advisor_agent.ipynb)
+
 ## Skills Being Built
 - Python for AI — NumPy, Pandas | ✅ Complete 
 - Prompt Engineering — few-shot, CoT, JSON output | ✅ Complete 
