@@ -106,9 +106,9 @@ Stack: Python · LangGraph · Groq LLM
 
 ## Roadmap
 - ✅ Week 1 — Python for AI, data pipelines
-- ✅ Week 2 — Prompt engineering, LangChain, RAG
-- 🔄 Week 3 — AI agents, tool calling, LangGraph
-- ⏳ Week 4 — Capstone project, FastAPI, Azure AI deployment
+- ✅ Week 2 — Prompt engineering, LangChain, RAG, FastAPI
+- 🔄 Week 3 — AI agents, LangGraph, multi-tool agents (Day 3 of 7)
+- ⏳ Week 4 — Capstone project, Azure AI deployment, certification
 
 ## Background
 7+ years as .NET and Cloud Developer across UK, Thailand, and India.
