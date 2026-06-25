@@ -75,6 +75,25 @@ Stack: Python · LangGraph · LangChain · Groq LLM
 
 📓 [View Notebook](property_advisor_agent.ipynb)
 
+### 4. Property Research Agent — LangGraph StateGraph
+**Week 3 — Day 3**
+
+A stateful AI workflow using LangGraph's StateGraph to research 
+property areas, analyse them with an LLM, and conditionally route 
+based on confidence — branching to a mortgage calculation step 
+only when confidence is high, otherwise ending early.
+
+Features:
+- Typed state (TypedDict) flowing through 4 nodes
+- Conditional edges — real branching logic, not a fixed pipeline
+- Debugged a real state-tracking bug where a node's intended 
+  next step diverged from what actually executed
+- Graph visualised via Mermaid
+
+Stack: Python · LangGraph · Groq LLM
+
+📓 [View Notebook](property_langgraph_workflow.ipynb)
+
 ## Skills Being Built
 - Python for AI — NumPy, Pandas | ✅ Complete 
 - Prompt Engineering — few-shot, CoT, JSON output | ✅ Complete 
