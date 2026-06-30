@@ -94,6 +94,26 @@ Stack: Python · LangGraph · Groq LLM
 
 📓 [View Notebook](property_langgraph_workflow.ipynb)
 
+### 5. Autonomous Property Research Agent — Week 3 Capstone
+**Week 3 — Days 5-7**
+
+A fully autonomous property investment research agent combining 
+LangGraph StateGraph, multi-tool ReAct agents, and live web search 
+into one coherent system.
+
+Features:
+- Multi-tool ReAct agent running **inside** a LangGraph node — 
+  agents within graphs, not just standalone agents
+- Live web search (Tavily) combined with local property database
+- Conditional routing based on LLM confidence assessment
+- Diagnosed and fixed two Groq-specific tool-calling bugs 
+  (type schema mismatch + LLM pre-computing arguments it 
+  should have passed raw)
+
+Stack: Python · LangGraph · LangChain · Groq LLM · Tavily Search
+
+[View Notebook](property_agent_capstone.ipynb)
+
 ## Skills Being Built
 - Python for AI — NumPy, Pandas | ✅ Complete 
 - Prompt Engineering — few-shot, CoT, JSON output | ✅ Complete 
@@ -107,8 +127,8 @@ Stack: Python · LangGraph · Groq LLM
 ## Roadmap
 - ✅ Week 1 — Python for AI, data pipelines
 - ✅ Week 2 — Prompt engineering, LangChain, RAG, FastAPI
-- 🔄 Week 3 — AI agents, LangGraph, multi-tool agents (Day 3 of 7)
-- ⏳ Week 4 — Capstone project, Azure AI deployment, certification
+- ✅ Week 3 — Agents, tool calling, LangGraph (complete)
+- 🔄 Week 4 — Capstone, FastAPI, Azure deployment, AI-102 cert prep
 
 ## Background
 7+ years as .NET and Cloud Developer across UK, Thailand, and India.
