@@ -114,6 +114,31 @@ Stack: Python · LangGraph · LangChain · Groq LLM · Tavily Search
 
 [View Notebook](property_agent_capstone.ipynb)
 
+### 6. Property Research API — FastAPI Cloud Deployment
+**Week 4 — Day 1**
+
+A production-ready REST API wrapping the property investment 
+research logic built across Weeks 1-3, deployed to the cloud 
+with a public URL.
+
+Endpoints:
+- `GET /property/{area}` — property data by London area
+- `POST /mortgage` — mortgage payment calculator
+- `POST /compare` — yield comparison across multiple areas
+- `GET /areas` — list all available areas
+- `GET /docs` — interactive Swagger documentation
+
+Features:
+- Pydantic request/response validation
+- Proper HTTP error handling (404, 400, 422)
+- Auto-generated OpenAPI documentation
+- Deployed on Render via GitHub integration
+
+Stack: Python · FastAPI · Pydantic · Uvicorn · Render
+
+🌐 [Live API](https://property-api-rpdk.onrender.com/docs) · 
+📦 [GitHub Repo](https://github.com/gali-ai-engineer/property-api)
+
 ## Skills Being Built
 - Python for AI — NumPy, Pandas | ✅ Complete 
 - Prompt Engineering — few-shot, CoT, JSON output | ✅ Complete 
@@ -128,7 +153,7 @@ Stack: Python · LangGraph · LangChain · Groq LLM · Tavily Search
 - ✅ Week 1 — Python for AI, data pipelines
 - ✅ Week 2 — Prompt engineering, LangChain, RAG, FastAPI
 - ✅ Week 3 — Agents, tool calling, LangGraph (complete)
-- 🔄 Week 4 — Capstone, FastAPI, Azure deployment, AI-102 cert prep
+- 🔄 Week 4 — Capstone, FastAPI deployment, Azure AI, AI-102 cert prep
 
 ## Background
 7+ years as .NET and Cloud Developer across UK, Thailand, and India.
