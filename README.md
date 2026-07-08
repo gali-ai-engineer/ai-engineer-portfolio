@@ -139,21 +139,50 @@ Stack: Python · FastAPI · Pydantic · Uvicorn · Render
 🌐 [Live API](https://property-api-rpdk.onrender.com/docs) · 
 📦 [GitHub Repo](https://github.com/gali-ai-engineer/property-api)
 
+### 7. Property Research — Full-Stack AI Application
+**Week 4 — Extended Project**
+
+A complete full-stack application combining a React frontend 
+with the previously-deployed Property Research API, closing the 
+gap between backend-only and genuine full-stack delivery.
+
+Features:
+- Property search, mortgage calculator, and area comparison — 
+  all connected to a live backend
+- Full input validation and error handling across every form
+- Resolved a real CORS configuration issue between separately-
+  deployed frontend and backend services
+- Found and fixed a genuine state-management bug through manual 
+  testing (stale results persisting alongside validation errors)
+- Mobile-responsive design, tested and verified at 375px width
+
+Stack: React, Vite, Axios, FastAPI, Claude API, Render, Vercel
+
+🌐 [Live App](https://property-frontend-navy.vercel.app/) · 
+📦 [Frontend Repo](https://github.com/gali-ai-engineer/property-frontend) · 
+📦 [Backend Repo](https://github.com/gali-ai-engineer/property-api)
+
 ## Skills Being Built
-- Python for AI — NumPy, Pandas | ✅ Complete 
-- Prompt Engineering — few-shot, CoT, JSON output | ✅ Complete 
-- LangChain — chains, memory, pipelines | ✅ Complete 
-- RAG — embeddings, FAISS, chunking, MMR | ✅ Complete 
-- FastAPI — REST endpoints, Pydantic, Swagger | ✅ Complete 
-- AI Agents — tool calling, LangGraph | 🔄 Week 3 
-- Azure AI deployment | ⏳ Week 4 
-- Azure AI Engineer AI-102 certification | ⏳ Week 4 
+- Python for AI — NumPy, Pandas | ✅ Complete
+- Prompt Engineering — few-shot, CoT, JSON output | ✅ Complete
+- LangChain — chains, memory, pipelines | ✅ Complete
+- RAG — embeddings, FAISS, chunking, MMR | ✅ Complete
+- FastAPI — REST endpoints, Pydantic, Swagger | ✅ Complete
+- AI Agents — tool calling, LangGraph | ✅ Complete
+- Multi-tool agents & live web search integration | ✅ Complete
+- Cloud deployment — Render, Vercel | ✅ Complete
+- Claude API integration | ✅ Complete
+- Azure AI deployment — Cognitive Services, CLI | ✅ Complete
+- Full-stack development — React frontend integration | ✅ Complete
+- Azure AI Engineer AI-102 certification | ⏳ Planned
+- Model Context Protocol (MCP) | ⏳ Next
 
 ## Roadmap
 - ✅ Week 1 — Python for AI, data pipelines
 - ✅ Week 2 — Prompt engineering, LangChain, RAG, FastAPI
 - ✅ Week 3 — Agents, tool calling, LangGraph (complete)
-- 🔄 Week 4 — Capstone, FastAPI deployment, Azure AI, AI-102 cert prep
+- ✅ Week 4 — Capstone, FastAPI deployment, Claude AI integration, 
+     Azure AI services, full-stack extension (complete)
 
 ## Background
 7+ years as .NET and Cloud Developer across UK, Thailand, and India.
